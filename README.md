@@ -1,4 +1,4 @@
-# INTRODUÇÃO REACT NATIVE - FULLSTRACK TQI DIO
+# INTRODUÇÃO REACt - FULLSTRACK TQI DIO
 
 ## Introdução aos React Hooks
 
